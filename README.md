@@ -1,1 +1,3 @@
 # hello-world
+
+trying to learn how to work with github for deep learning projects...
